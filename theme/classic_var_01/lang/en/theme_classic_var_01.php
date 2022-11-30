@@ -55,7 +55,7 @@ $string['region-lower-fullwidth'] = 'Below Sections';
 $string['region-bottom-fullwidth'] = 'Above Footer';
 
 $string['sitetitle'] = 'Site title';
-$string['privacy:metadata'] = 'The classic_unitec_std theme does not store any personal data.';
+$string['privacy:metadata'] = 'The Classic Var 01 theme does not store any personal data.';
 
 /*###################################################################################
 ########################      End Custom block regions     ########################
